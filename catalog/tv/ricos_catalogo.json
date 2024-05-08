@@ -1,0 +1,18 @@
+{
+
+  "metas": [
+    {
+      "id": "ricos_canal",
+      "type": "tv",
+      "name": "Canal Ricos",
+      "description": "Canal Ricos - Variedades - Perus, São Paulo, Whatsapp: (11) 99105-1755",
+      "language": "Portuguese",
+
+      "logo": "https://www.canalricos.com.br/public/66970-2024-01-02.png",
+      "poster": "https://i0.wp.com/redeitv.com.br/wp-content/uploads/jet-engine-forms/1072/2024/03/logo-800x450-1.png?fit=800%2C450&ssl=1",
+      "posterShape": "landscape"
+    }
+
+  ]
+
+}
