@@ -1,3 +1,3 @@
 # Canal Ricos para Stremio
 
-[Install](stremio://https://zoreu.github.io/ricosstremio/manifest.json)
+[Install](stremio://zoreu.github.io/ricosstremio/manifest.json)
